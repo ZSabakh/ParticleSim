@@ -1,0 +1,12 @@
+﻿  Particle.cpp
+  Screen.cpp
+  SDLTEST.cpp
+F:\Projects\SDL\PROG\SDLTEST2\SDLTEST.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Projects\SDL\PROG\SDLTEST2\SDLTEST.cpp(34,23): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+F:\Projects\SDL\PROG\SDLTEST2\SDLTEST.cpp(35,21): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+F:\Projects\SDL\PROG\SDLTEST2\SDLTEST.cpp(36,22): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+F:\Projects\SDL\PROG\SDLTEST2\SDLTEST.cpp(44,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Projects\SDL\PROG\SDLTEST2\SDLTEST.cpp(45,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Pgroup.cpp
+  Generating Code...
+  SDLTEST.vcxproj -> F:\Projects\SDL\PROG\SDLTEST2\x64\Debug\SDLTEST.exe
